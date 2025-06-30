@@ -4,23 +4,6 @@
 
 Me chamo Ewerton Ferreira Costa, tenho 24 anos e sou de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta e estou atualmente no 5º semestre de Sistemas de Informação, também pela Impacta. Além disso, aprofundo meus estudos por meio da plataforma [The Odin Project](https://www.theodinproject.com/). 
 
-<p align="left">
-    <a href="https://github.com/EwertonFC?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/EwertonFC?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/EwertonFC?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/EwertonFC?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
