@@ -85,7 +85,7 @@ Me chamo Ewerton Ferreira Costa, tenho 24 anos e sou de São Paulo. Sou formado 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      width="300"
+      width="600"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonFC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
