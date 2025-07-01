@@ -68,11 +68,11 @@ Me chamo Ewerton Ferreira Costa, tenho 24 anos e sou de São Paulo. Sou formado 
 />
 <img 
     align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
+    alt="MongoDB" 
+    title="MongoDB"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
 />
 
 <br/>
