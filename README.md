@@ -1,8 +1,17 @@
 # 👩🏻‍💻 EwertonFC
 
-**`Desenvolvedor FullStack`**
+**`Back-End Developer`**
 
-Me chamo Ewerton Ferreira Costa, tenho 24 anos e sou de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta e estou atualmente no 5º semestre de Sistemas de Informação, também pela Impacta. Além disso, aprofundo meus estudos por meio da plataforma [The Odin Project](https://www.theodinproject.com/). 
+Sou estudante do 6º semestre de Sistemas de Informação e já formado em Análise e Desenvolvimento de Sistemas. Tenho me especializado em desenvolvimento back-end, com foco no ecossistema JavaScript, especialmente Node.js e tecnologias relacionadas.
+
+Aprofundo meus conhecimentos seguindo uma trilha de estudos sólida e prática, explorando tópicos como:
+
+- Estruturação e consumo de REST APIs
+- Manipulação de dados com MongoDB e PostgreSQL
+- Práticas de API Design, autenticação e segurança
+- Deploys com AWS e controle de versão com Git
+
+Aprendi inglês de forma autodidata, o que me permite acompanhar documentações técnicas, cursos internacionais e participar de comunidades globais com autonomia. Busco uma oportunidade de estágio na área de tecnologia, onde eu possa continuar aprendendo e contribuindo. 
 
 ---
 
