@@ -6,9 +6,8 @@ Sou estudante do 6º semestre de Sistemas de Informação e já formado em Anál
 
 Minha trilha completa prevê evolução para níveis intermediário e avançado, incluindo:
 
-Desenvolvimento e integração de microsserviços, testes automatizados, mensageria, CI/CD, bancos poliglotas e boas práticas de arquitetura
-
-Atuação estratégica em sistemas distribuídos, com decisões de arquitetura, desempenho, segurança e observabilidade, projetando soluções end-to-end
+-Desenvolvimento e integração de microsserviços, testes automatizados, mensageria, CI/CD, bancos poliglotas e boas práticas de arquitetura
+-Atuação estratégica em sistemas distribuídos, com decisões de arquitetura, desempenho, segurança e observabilidade, projetando soluções end-to-end
 
 Aprendi inglês de forma autodidata, o que me permite acompanhar documentações técnicas, cursos internacionais e participar de comunidades globais.
 Busco uma oportunidade de estágio em tecnologia para aplicar meus conhecimentos atuais, continuar aprendendo e crescer na trajetória de desenvolvimento back-end.
