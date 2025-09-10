@@ -11,6 +11,7 @@ Minha trilha completa prevê evolução para níveis intermediário e avançado,
 
 Aprendi inglês de forma autodidata, o que me permite acompanhar documentações técnicas, cursos internacionais e participar de comunidades globais.
 Busco uma oportunidade de estágio em tecnologia para aplicar meus conhecimentos atuais, continuar aprendendo e crescer na trajetória de desenvolvimento back-end.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
