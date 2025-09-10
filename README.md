@@ -2,17 +2,16 @@
 
 **`Back-End Developer`**
 
-Sou estudante do 6º semestre de Sistemas de Informação e já formado em Análise e Desenvolvimento de Sistemas. Tenho me especializado em desenvolvimento back-end, com foco no ecossistema JavaScript, especialmente Node.js e tecnologias relacionadas.
+Sou estudante do 6º semestre de Sistemas de Informação e já formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end. Atualmente, estou no início da minha trilha de aprendizado em Java e Spring Boot, consolidando os fundamentos da linguagem, programação orientada a objetos, versionamento com Git e construção de APIs REST com testes básicos de qualidade.
 
-Aprofundo meus conhecimentos seguindo uma trilha de estudos sólida e prática, explorando tópicos como:
+Minha trilha completa prevê evolução para níveis intermediário e avançado, incluindo:
 
-- Estruturação e consumo de REST APIs
-- Manipulação de dados com MongoDB e PostgreSQL
-- Práticas de API Design, autenticação e segurança
-- Deploys com AWS e controle de versão com Git
+Desenvolvimento e integração de microsserviços, testes automatizados, mensageria, CI/CD, bancos poliglotas e boas práticas de arquitetura
 
-Aprendi inglês de forma autodidata, o que me permite acompanhar documentações técnicas, cursos internacionais e participar de comunidades globais com autonomia. Busco uma oportunidade de estágio na área de tecnologia, onde eu possa continuar aprendendo e contribuindo. 
+Atuação estratégica em sistemas distribuídos, com decisões de arquitetura, desempenho, segurança e observabilidade, projetando soluções end-to-end
 
+Aprendi inglês de forma autodidata, o que me permite acompanhar documentações técnicas, cursos internacionais e participar de comunidades globais.
+Busco uma oportunidade de estágio em tecnologia para aplicar meus conhecimentos atuais, continuar aprendendo e crescer na trajetória de desenvolvimento back-end.
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -62,20 +61,23 @@ Aprendi inglês de forma autodidata, o que me permite acompanhar documentações
 
 <img 
     align="left" 
-    alt="NodeJs" 
-    title="NodeJs"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+
 <img 
     align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
+    alt="Spring" 
+    title="Spring"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
+
+
 
 <br/>
 <br/>
