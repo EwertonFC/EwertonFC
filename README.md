@@ -2,7 +2,7 @@
 
 **`Back-End Developer`**
 
-Sou estudante do 6º semestre de Sistemas de Informação e já formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end. Atualmente, estou no início da minha trilha de aprendizado em Java e Spring Boot, consolidando os fundamentos da linguagem, programação orientada a objetos, versionamento com Git e construção de APIs REST com testes básicos de qualidade.
+Sou estudante do 6º semestre de Sistemas de Informação e já formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end. Atualmente, sigo uma trilha de aprendizado em Java e Spring Boot, consolidando os fundamentos da linguagem, programação orientada a objetos, versionamento com Git e construção de APIs REST com testes básicos de qualidade.
 
 Minha trilha completa prevê evolução para níveis intermediário e avançado, incluindo:
 
