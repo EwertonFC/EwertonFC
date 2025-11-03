@@ -1,17 +1,14 @@
 # 👩🏻‍💻 EwertonFC
 
-**`Back-End Developer`**
+**`Software Developer`**
 
-Sou estudante do 6º semestre de Sistemas de Informação e já formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end. Atualmente, sigo uma trilha de aprendizado em Java e Spring Boot, consolidando os fundamentos da linguagem, programação orientada a objetos, versionamento com Git e construção de APIs REST com testes básicos de qualidade.
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso o 6° semestre de Sistemas de Informação. Tenho experiência profissional com atendimento e comunicação com clientes, o que desenvolveu minha escuta ativa, empatia e capacidade de resolver problemas de forma clara e eficiente.
 
-Minha trilha completa prevê evolução para níveis intermediário e avançado, incluindo:
+Atuo com desenvolvimento de software e, atualmente, venho aprofundando meus estudos em .NET, C#, SQL e Angular, consolidando fundamentos de programação orientada a objetos, integração de APIs RESTful, versionamento com Git e boas práticas de arquitetura.
 
--Desenvolvimento e integração de microsserviços, testes automatizados, mensageria, CI/CD, bancos poliglotas e boas práticas de arquitetura
+Aprendi inglês de forma autodidata, o que me permite acompanhar documentações técnicas, cursos internacionais e participar de comunidades globais de tecnologia.
 
--Atuação estratégica em sistemas distribuídos, com decisões de arquitetura, desempenho, segurança e observabilidade, projetando soluções end-to-end
-
-Aprendi inglês de forma autodidata, o que me permite acompanhar documentações técnicas, cursos internacionais e participar de comunidades globais.
-Busco uma oportunidade de estágio em tecnologia para aplicar meus conhecimentos atuais, continuar aprendendo e crescer na trajetória de desenvolvimento back-end.
+Gosto de trocar ideias sobre tecnologia e aprendizado contínuo, se quiser conversar, será um prazer!
 
 ---
 
@@ -62,12 +59,43 @@ Busco uma oportunidade de estágio em tecnologia para aplicar meus conhecimentos
 
 <img 
     align="left" 
-    alt="Spring" 
-    title="Spring"
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
+
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt=".NETcore" 
+    title=".NETcore"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg""
+/>
+
+
+
+
 
 
 
